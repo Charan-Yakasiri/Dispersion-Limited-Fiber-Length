@@ -39,4 +39,9 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
 # Tabulation
+<img width="781" height="1280" alt="WhatsApp Image 2026-08-19 at 9 34 39 AM" src="https://github.com/user-attachments/assets/ce0b0fdf-dd75-4a02-9979-474c7fa849f9" />
+
 # Result
+Thus the dispersion-limited fiber length for a fiber optic transport system that 
+employs standard single-mode fiber and a directly-modulated single-mode laser diode 
+transmitter is calculated. 
